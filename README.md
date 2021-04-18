@@ -37,6 +37,6 @@
    ![image](https://github.com/Alexliu007/Deploy-a-Solidity-smart-contract-on-ParaState-s-testnet/blob/main/images/deploy-contract.png)
    
     5.Deploy contract success
-   ![image]()
+   ![image](https://github.com/Alexliu007/Deploy-a-Solidity-smart-contract-on-ParaState-s-testnet/blob/main/images/deploy-contract-success.png)
 
 
