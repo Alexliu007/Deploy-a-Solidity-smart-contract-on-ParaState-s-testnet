@@ -20,8 +20,7 @@
     Contract Template:
    [Code Link](https://github.com/Alexliu007/Deploy-a-Solidity-smart-contract-on-ParaState-s-testnet/blob/main/USDTToken.sol)
 
-## 4. Deploy contract
-    Deploy with buidl:
+## 4. Deploy contract on Buidl Secondstate
    [Buidl Secondstate](http://buidl.secondstate.io)
       
     1.Copy contract code to the Buidl Secondstate
@@ -29,5 +28,6 @@
    
     2.Change endpoint to ParaState testnet.
     web3 RPC endpoint is https://rpc.parastate.io:8545/
+   ![image](https://github.com/Alexliu007/Deploy-a-Solidity-smart-contract-on-ParaState-s-testnet/blob/main/images/chage-endpoint.png)
 
 
