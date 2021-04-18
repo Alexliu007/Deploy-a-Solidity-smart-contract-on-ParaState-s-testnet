@@ -42,4 +42,5 @@
    
 ## 5. Call contract on Buidl Secondstate
     Call contract 
+   ![image](https://github.com/Alexliu007/Deploy-a-Solidity-smart-contract-on-ParaState-s-testnet/blob/main/images/call-contract.png)
 
