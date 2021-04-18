@@ -29,5 +29,8 @@
     2.Change endpoint to ParaState testnet.
     web3 RPC endpoint is https://rpc.parastate.io:8545/
    ![image](https://github.com/Alexliu007/Deploy-a-Solidity-smart-contract-on-ParaState-s-testnet/blob/main/images/chage-endpoint.png)
+   
+    3.Compile the contract
+   ![image](https://github.com/Alexliu007/Deploy-a-Solidity-smart-contract-on-ParaState-s-testnet/blob/main/images/compile-contract.png)
 
 
