@@ -17,4 +17,10 @@
     4.A new MetaMask account created
    
 ## 3. Prepare the contract code
-    Contract Template: Code Link
+    Contract Template:
+   [Code Link](https://github.com/Alexliu007/Deploy-a-Solidity-smart-contract-on-ParaState-s-testnet/blob/main/USDTToken.sol)
+
+## 4. Deploy contract
+    Deploy with buidl:
+   [Buidl Secondstate](http://buidl.secondstate.io)
+
