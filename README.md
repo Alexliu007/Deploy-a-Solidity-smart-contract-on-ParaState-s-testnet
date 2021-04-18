@@ -38,5 +38,8 @@
    
     5.Deploy contract success
    ![image](https://github.com/Alexliu007/Deploy-a-Solidity-smart-contract-on-ParaState-s-testnet/blob/main/images/deploy-contract-success.png)
-
+   
+   
+## 5. Call contract on Buidl Secondstate
+    Call contract 
 
