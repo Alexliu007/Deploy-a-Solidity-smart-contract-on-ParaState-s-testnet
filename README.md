@@ -32,5 +32,11 @@
    
     3.Compile the contract
    ![image](https://github.com/Alexliu007/Deploy-a-Solidity-smart-contract-on-ParaState-s-testnet/blob/main/images/compile-contract.png)
+   
+    4.Deploy the contract
+   ![image](https://github.com/Alexliu007/Deploy-a-Solidity-smart-contract-on-ParaState-s-testnet/blob/main/images/deploy-contract.png)
+   
+    5.Deploy contract success
+   ![image]()
 
 
